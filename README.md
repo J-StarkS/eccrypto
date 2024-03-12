@@ -1,2 +1,2 @@
-# eccrypto
-crypto
+# eccrypto-js
+eccrypto-js
